@@ -1,0 +1,15 @@
+.jobPage {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.green {
+    color:green;
+}
+
+.addButton {
+    text-align: right;
+}
